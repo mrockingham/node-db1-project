@@ -8,6 +8,7 @@
   "repository": "https://github.com/LambdaSchool/webdb-i-challenge",
   "dependencies": {
     "chalk": "^4.1.0",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "knex": "^0.20.13",
     "morgan": "^1.10.0",
